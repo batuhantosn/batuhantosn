@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhantosn&label=Profile%20views&color=0e75b6&style=flat" alt="batuhantosn" /> </p>
 
-- 🌱 I’m currently learning **Maya,Blender,Unity(AR & VR)**
+- 🌱 I’m currently learning **JavaScript,Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/batuhantosn](https://github.com/batuhantosn)
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity,Maya,Java**
 
 - 📫 How to reach me **batuhan.tosun.96@hotmail.com**
 
