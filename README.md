@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhantosn&label=Profile%20views&color=0e75b6&style=flat" alt="batuhantosn" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,Spring Boot**
+- 🌱 I’m currently learning **JavaScript , Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/batuhantosn](https://github.com/batuhantosn)
 
